@@ -1,4 +1,30 @@
-# Getting Started
+# User Registration Application
+
+Using this application, end user can add n number of user along with their address in the h2 Database using exposed REST API’s. 
+
+### Technologies
+
+Dependency management : Maven <br>
+Framework: Spring framework <br>
+Language: Java 11<br>
+Databse: H2 DB<br>
+
+
+### Steps to Run application
+
+* Step1: Clone this repository
+* Step2: Open downloaded application in Spring Tool Suite (or any preferred IDE)<br>
+* Step3: Run the application using Spring Boot App<br>
+* Step4: Navigate to below URL to test all the REST endpoints<br> 
+  http://localhost:8080/swagger-ui.html#/<br>
+* Step5: Navigate to below URL to  access H2 Database<br> 
+  http://localhost:8080/h2 <br>
+  Databse: H2 DB <br>
+  DB: jdbc:h2:mem:backend_test <br>
+  DB User Name: varo <br>
+  DB Password: varo <br>
+  (Note: We can change DB properties form the application.properties file) <br>
+
 
 ### Reference Documentation
 For further reference, please consider the following sections:
