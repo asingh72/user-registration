@@ -2,6 +2,10 @@
 
 Using this application, end user can add n number of user along with their address in the h2 Database using exposed REST API’s. 
 
+
+### high level architecture
+![Screen Shot 2021-10-24 at 2 52 43 PM](https://user-images.githubusercontent.com/25624988/138621959-9618e838-450c-4262-8a8c-c7a04fd18b9c.png)
+
 ### Technologies
 
 Dependency management : Maven <br>
