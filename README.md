@@ -11,7 +11,7 @@ Using this application, end user can add n number of user along with their addre
 Dependency management : Maven <br>
 Framework: Spring framework <br>
 Language: Java 11<br>
-Databse: H2 DB<br>
+Database: H2 DB<br>
 
 
 ### Steps to Run application
